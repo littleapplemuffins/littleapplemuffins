@@ -17,6 +17,7 @@ hi im muffin i dont know how this github bullshit works so sign my ata and look 
 <p align=“center”>
 <img wdith=“1” alt=“image” src=https://file.garden/aTMG8HR-BjYQTJGS/IMG_9550.png
 
+<p align=“center”>
 <a href="https://hits.sh/github.com/littleapplemuffins/hits/"><img alt="Hits" src="https://hits.sh/github.com/littleapplemuffins/hits.svg"/></a>
 
 <!--
