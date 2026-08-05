@@ -18,7 +18,7 @@ hi im muffin i dont know how this github bullshit works so sign my ata and look 
 <img wdith=“1” alt=“image” src=https://file.garden/aTMG8HR-BjYQTJGS/IMG_9550.png
 
 <p align=“center”>
-<a href="https://hits.sh/github.com/littleapplemuffins/hits/"><img alt="Hits" src="https://hits.sh/github.com/littleapplemuffins/hits.svg"/></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flittleapplemuffins"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flittleapplemuffins&label=Playmates%20!!&labelColor=%232ccce4&countColor=%23555555&style=plastic" /></a>
 
 <!--
 **littleapplemuffins/littleapplemuffins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
